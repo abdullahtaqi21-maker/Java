@@ -1,3 +1,4 @@
+package Bank;
 interface BankAccount {
     void deposit(double amount);
     void withdraw(double amount);
