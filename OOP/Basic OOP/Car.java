@@ -13,6 +13,7 @@ public class Car {
     public static void main(String[] args) {
         Car myCar = new Car();
         myCar.setSpeed(250);
-        System.out.println("SPEED ===> " + myCar.currentSpeed);
+        System.out.println("   SPEED   ");
+        System.out.println("==> " + myCar.currentSpeed + " <==");
     }
 }
